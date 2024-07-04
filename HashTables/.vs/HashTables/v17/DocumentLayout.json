@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2sem\\\u041E\u0410\u0438\u041F\\\u0412\u0422\u041E\u0420\u041E\u0419 \u0421\u0415\u041C\\HashTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5317F644-ACBF-4486-A2E5-3601AF32B5FC}|HashTables\\HashTables.vcxproj|E:\\2sem\\\u041E\u0410\u0438\u041F\\\u0412\u0422\u041E\u0420\u041E\u0419 \u0421\u0415\u041C\\HashTables\\HashTables\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5317F644-ACBF-4486-A2E5-3601AF32B5FC}|HashTables\\HashTables.vcxproj|solutionrelative:HashTables\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\2sem\\\u041E\u0410\u0438\u041F\\\u0412\u0422\u041E\u0420\u041E\u0419 \u0421\u0415\u041C\\HashTables\\HashTables\\Source.cpp",
+              "RelativeDocumentMoniker": "HashTables\\Source.cpp",
+              "ToolTip": "E:\\2sem\\\u041E\u0410\u0438\u041F\\\u0412\u0422\u041E\u0420\u041E\u0419 \u0421\u0415\u041C\\HashTables\\HashTables\\Source.cpp",
+              "RelativeToolTip": "HashTables\\Source.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T10:32:56.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
